@@ -1,5 +1,5 @@
-Je suis Josephine SOUSSEEBAA DJONMA
-Developpement web et mobile |  Designer UX/UI | Data Analyst | 
+<h2 aline ="center"> Je suis Josephine SOUSSEEBAA DJONMA</h2>
+<h3 aline ="center">Developpement web et mobile |  Designer UX/UI | Data Analyst </h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DJONMA-SJ&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="Sousseebaa" />
 
