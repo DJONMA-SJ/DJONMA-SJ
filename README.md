@@ -2,7 +2,7 @@
 <h3 align ="center">Developpement web et mobile |  Design UX/UI | Data Analyst </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9phine-soussee-baa-b6713a316/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-   <a href="josephinesousseebaa@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-12100E?logo=gmail&logoColor=white" alt="Gmail">
+   <a href="mail to ://josephinesousseebaa@gmail.com " target="_blank"><img src="https://img.shields.io/badge/Gmail-12100E?logo=gmail&logoColor=white" alt="Gmail">
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DJONMA-SJ&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="Sousseebaa" />
