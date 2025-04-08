@@ -1,6 +1,8 @@
 <h2 align ="center"> Je suis Josephine SOUSSEEBAA DJONMA</h2>
 <h3 align ="center">Developpement web et mobile |  Design UX/UI | Data Analyst </h3>
-
+<p align="center">
+  <a href="https://linkedin.com/in/josephine" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 <img src="https://github-profile-trophy.vercel.app/?username=DJONMA-SJ&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="Sousseebaa" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DJONMA-SJ&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="Sousseebaa" />
