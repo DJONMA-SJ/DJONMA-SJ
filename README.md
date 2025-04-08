@@ -1,4 +1,4 @@
-<h2 aline ="center"> Je suis Josephine SOUSSEEBAA DJONMA</h2>
+<h2 align ="center"> Je suis Josephine SOUSSEEBAA DJONMA</h2>
 <h3 align ="center">Developpement web et mobile |  Designer UX/UI | Data Analyst </h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=DJONMA-SJ&row=1&theme=darkhub&margin-w=15&no-bg=true" alt="Sousseebaa" />
